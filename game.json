@@ -323,6 +323,123 @@
         "name": "img\\G3_block.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "img/G3_Start.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "img\\G3_Start.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "img/G3_bk_ground.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "img\\G3_bk_ground.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "img/G3_Nirmal.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "img\\G3_Nirmal.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "img/G3_frame.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "img\\G3_frame.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "img/G3_Abhishek.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "img\\G3_Abhishek.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "img/G3_wrong.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "img\\G3_wrong.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "img/G3_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "img\\G3_2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "img/G3_0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "img\\G3_0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "img/G3_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "img\\G3_1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "img/G3_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "img\\G3_3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "img/G3_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "img\\G3_4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "img/G3_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "img\\G3_5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "img/G3_floor.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "img\\G3_floor.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -11513,18 +11630,18 @@
       "behaviorsSharedData": []
     },
     {
-      "b": 131,
+      "b": 255,
       "disableInputWhenNotFocused": true,
       "mangledName": "Start_32Game_323_32Part_32I",
       "name": "Start Game 3 Part I",
       "oglFOV": 90,
       "oglZFar": 500,
       "oglZNear": 1,
-      "r": 173,
+      "r": 255,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
-      "v": 215,
+      "v": 255,
       "uiSettings": {
         "grid": false,
         "gridB": 255,
@@ -11536,7 +11653,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 1
+        "zoomFactor": 0.76
       },
       "objectsGroups": [],
       "variables": [],
@@ -11559,14 +11676,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 599,
+          "height": 600,
           "layer": "",
           "locked": false,
           "name": "bkground",
-          "width": 799,
-          "x": 1,
-          "y": 1,
-          "zOrder": -100,
+          "width": 800,
+          "x": 0,
+          "y": 0,
+          "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -11594,8 +11711,8 @@
           "locked": false,
           "name": "Back_btn",
           "width": 0,
-          "x": 35,
-          "y": 24,
+          "x": 60,
+          "y": 36,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -11701,7 +11818,7 @@
           }
         },
         {
-          "bold": true,
+          "bold": false,
           "italic": false,
           "name": "Back_btn",
           "smoothed": true,
@@ -11879,7 +11996,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 1.09
+        "zoomFactor": 0.754
       },
       "objectsGroups": [],
       "variables": [],
@@ -15358,7 +15475,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 1.09
+        "zoomFactor": 0.73
       },
       "objectsGroups": [],
       "variables": [],
@@ -18985,18 +19102,18 @@
       "behaviorsSharedData": []
     },
     {
-      "b": 131,
+      "b": 255,
       "disableInputWhenNotFocused": true,
       "mangledName": "Start_32Game_323_32Part_32II",
       "name": "Start Game 3 Part II",
       "oglFOV": 90,
       "oglZFar": 500,
       "oglZNear": 1,
-      "r": 173,
+      "r": 255,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
-      "v": 215,
+      "v": 255,
       "uiSettings": {
         "grid": false,
         "gridB": 255,
@@ -19008,7 +19125,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 1
+        "zoomFactor": 0.712
       },
       "objectsGroups": [],
       "variables": [],
@@ -19066,8 +19183,8 @@
           "locked": false,
           "name": "Back_btn",
           "width": 0,
-          "x": 31,
-          "y": 29,
+          "x": 60,
+          "y": 36,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -19173,7 +19290,7 @@
           }
         },
         {
-          "bold": true,
+          "bold": false,
           "italic": false,
           "name": "Back_btn",
           "smoothed": true,
@@ -19351,7 +19468,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 1.09
+        "zoomFactor": 0.73
       },
       "objectsGroups": [],
       "variables": [],
@@ -22804,285 +22921,6 @@
           "name": "Layer",
           "visibility": true,
           "cameras": [],
-          "effects": []
-        }
-      ],
-      "behaviorsSharedData": []
-    },
-    {
-      "b": 209,
-      "disableInputWhenNotFocused": true,
-      "mangledName": "End_323",
-      "name": "End 3",
-      "oglFOV": 90,
-      "oglZFar": 500,
-      "oglZNear": 1,
-      "r": 209,
-      "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
-      "title": "",
-      "v": 209,
-      "uiSettings": {
-        "grid": false,
-        "gridB": 255,
-        "gridG": 180,
-        "gridHeight": 32,
-        "gridOffsetX": 0,
-        "gridOffsetY": 0,
-        "gridR": 158,
-        "gridWidth": 32,
-        "snap": true,
-        "windowMask": false,
-        "zoomFactor": 0.808
-      },
-      "objectsGroups": [],
-      "variables": [],
-      "instances": [
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "text",
-          "width": 0,
-          "x": 161,
-          "y": 136,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "image",
-          "width": 0,
-          "x": 156,
-          "y": 154,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 600,
-          "layer": "",
-          "locked": false,
-          "name": "background",
-          "width": 800,
-          "x": 0,
-          "y": 0,
-          "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "back",
-          "width": 0,
-          "x": 56,
-          "y": 36,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        }
-      ],
-      "objects": [
-        {
-          "bold": false,
-          "italic": false,
-          "name": "text",
-          "smoothed": true,
-          "tags": "",
-          "type": "TextObject::Text",
-          "underlined": false,
-          "variables": [],
-          "behaviors": [],
-          "string": "Well done! You completed the card!",
-          "font": "font\\amazone.ttf",
-          "characterSize": 35,
-          "color": {
-            "b": 255,
-            "g": 42,
-            "r": 0
-          }
-        },
-        {
-          "name": "image",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "img\\congratulations-typography-wording-style-vector_53876-56739-removebg-preview.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "height": 32,
-          "name": "background",
-          "tags": "",
-          "texture": "img\\skyBlue-bg.jpg",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 32,
-          "variables": [],
-          "behaviors": []
-        },
-        {
-          "bold": true,
-          "italic": false,
-          "name": "back",
-          "smoothed": true,
-          "tags": "",
-          "type": "TextObject::Text",
-          "underlined": false,
-          "variables": [],
-          "behaviors": [],
-          "string": "< Back",
-          "font": "font\\amazone.ttf",
-          "characterSize": 30,
-          "color": {
-            "b": 0,
-            "g": 0,
-            "r": 0
-          }
-        }
-      ],
-      "events": [
-        {
-          "disabled": false,
-          "folded": false,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "DepartScene"
-              },
-              "parameters": [
-                ""
-              ],
-              "subInstructions": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "SceneBackground"
-              },
-              "parameters": [
-                "",
-                "\"255;255;255\""
-              ],
-              "subInstructions": []
-            }
-          ],
-          "events": []
-        },
-        {
-          "disabled": false,
-          "folded": false,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "MouseButtonReleased"
-              },
-              "parameters": [
-                "",
-                "Left"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "SourisSurObjet"
-              },
-              "parameters": [
-                "back",
-                "",
-                "",
-                ""
-              ],
-              "subInstructions": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "Scene"
-              },
-              "parameters": [
-                "",
-                "\"Game\"",
-                ""
-              ],
-              "subInstructions": []
-            }
-          ],
-          "events": []
-        }
-      ],
-      "layers": [
-        {
-          "name": "",
-          "visibility": true,
-          "cameras": [
-            {
-              "defaultSize": true,
-              "defaultViewport": true,
-              "height": 0,
-              "viewportBottom": 1,
-              "viewportLeft": 0,
-              "viewportRight": 1,
-              "viewportTop": 0,
-              "width": 0
-            }
-          ],
           "effects": []
         }
       ],
