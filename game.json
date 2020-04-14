@@ -11326,7 +11326,7 @@
           "variables": [],
           "behaviors": [],
           "string": "Well done! You completed the card!",
-          "font": "amazone.ttf",
+          "font": "font\\amazone.ttf",
           "characterSize": 35,
           "color": {
             "b": 255,
@@ -11352,7 +11352,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "congratulations-typography-wording-style-vector_53876-56739-removebg-preview.png",
+                      "image": "img\\congratulations-typography-wording-style-vector_53876-56739-removebg-preview.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -11377,7 +11377,7 @@
           "height": 32,
           "name": "background",
           "tags": "",
-          "texture": "skyBlue-bg.jpg",
+          "texture": "img\\skyBlue-bg.jpg",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 32,
           "variables": [],
@@ -11394,7 +11394,7 @@
           "variables": [],
           "behaviors": [],
           "string": "< Back",
-          "font": "amazone.ttf",
+          "font": "font\\amazone.ttf",
           "characterSize": 30,
           "color": {
             "b": 0,
