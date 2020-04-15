@@ -27113,7 +27113,7 @@
               },
               "parameters": [
                 "",
-                "\"Start Game 4_2\"",
+                "\"EndGame 4\"",
                 ""
               ],
               "subInstructions": []
@@ -30370,6 +30370,18 @@
                   "parameters": [
                     "",
                     "\"Wrong\""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "scoreG4",
+                    "-",
+                    "1"
                   ],
                   "subInstructions": []
                 }
@@ -34331,6 +34343,18 @@
                   "parameters": [
                     "",
                     "\"Wrong\""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "scoreG4",
+                    "-",
+                    "1"
                   ],
                   "subInstructions": []
                 }
