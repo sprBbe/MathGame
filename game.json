@@ -548,6 +548,27 @@
         "name": "img\\85.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "file": "sound/DM-CGS-32-click.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "sound\\DM-CGS-32-click.wav",
+        "userAdded": true
+      },
+      {
+        "file": "sound/DM-CGS-26-correct.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "sound\\DM-CGS-26-correct.wav",
+        "userAdded": true
+      },
+      {
+        "file": "sound/blank.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "sound\\blank.wav",
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -1008,6 +1029,40 @@
             {
               "type": {
                 "inverted": false,
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "sound\\blank.wav",
+                "no",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
                 "value": "SourisSurObjet"
               },
               "parameters": [
@@ -1059,6 +1114,20 @@
                   "parameters": [
                     "",
                     "\"Game 1\"",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "sound\\DM-CGS-32-click.wav",
+                    "no",
+                    "",
                     ""
                   ],
                   "subInstructions": []
@@ -1127,6 +1196,20 @@
                   "parameters": [
                     "",
                     "\"Game1\"",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "sound\\DM-CGS-32-click.wav",
+                    "no",
+                    "",
                     ""
                   ],
                   "subInstructions": []
@@ -1245,6 +1328,20 @@
                     ""
                   ],
                   "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "sound\\DM-CGS-32-click.wav",
+                    "no",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
                 }
               ],
               "events": []
@@ -1310,6 +1407,20 @@
                   "parameters": [
                     "",
                     "\"Start Game 2\"",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "sound\\DM-CGS-32-click.wav",
+                    "no",
+                    "",
                     ""
                   ],
                   "subInstructions": []
@@ -1428,6 +1539,20 @@
                     ""
                   ],
                   "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "sound\\DM-CGS-32-click.wav",
+                    "no",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
                 }
               ],
               "events": []
@@ -1493,6 +1618,20 @@
                   "parameters": [
                     "",
                     "\"Start Game 3 Part I\"",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "sound\\DM-CGS-32-click.wav",
+                    "no",
+                    "",
                     ""
                   ],
                   "subInstructions": []
@@ -1611,6 +1750,20 @@
                     ""
                   ],
                   "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "sound\\DM-CGS-32-click.wav",
+                    "no",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
                 }
               ],
               "events": []
@@ -1676,6 +1829,20 @@
                   "parameters": [
                     "",
                     "\"Start Game 4\"",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "sound\\DM-CGS-32-click.wav",
+                    "no",
+                    "",
                     ""
                   ],
                   "subInstructions": []
