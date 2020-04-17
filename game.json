@@ -1065,20 +1065,6 @@
                 ""
               ],
               "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "PlayMusic"
-              },
-              "parameters": [
-                "",
-                "sound\\SangMatChua.mp3",
-                "",
-                "",
-                ""
-              ],
-              "subInstructions": []
             }
           ],
           "events": []
@@ -8132,6 +8118,40 @@
             {
               "type": {
                 "inverted": false,
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "sound\\blank.wav",
+                "no",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
                 "value": "SourisSurObjet"
               },
               "parameters": [
@@ -8184,6 +8204,20 @@
                     "scoreG2",
                     "=",
                     "0"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "sound\\DM-CGS-32-click.wav",
+                    "no",
+                    "",
+                    ""
                   ],
                   "subInstructions": []
                 }
@@ -8246,6 +8280,20 @@
                 "0"
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "sound\\DM-CGS-32-click.wav",
+                "no",
+                "",
+                ""
+              ],
+              "subInstructions": []
             }
           ],
           "events": []
@@ -8297,6 +8345,20 @@
                   "parameters": [
                     "",
                     "\"Game\"",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "sound\\DM-CGS-32-click.wav",
+                    "no",
+                    "",
                     ""
                   ],
                   "subInstructions": []
@@ -10240,6 +10302,20 @@
                 "0"
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "sound\\blank.wav",
+                "no",
+                "",
+                ""
+              ],
+              "subInstructions": []
             }
           ],
           "events": []
@@ -10283,6 +10359,20 @@
               "parameters": [
                 "",
                 "\"Game\"",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "sound\\DM-CGS-32-click.wav",
+                "no",
+                "",
                 ""
               ],
               "subInstructions": []
@@ -11546,6 +11636,20 @@
                 ""
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "sound\\DM-CGS-26-correct.wav",
+                "no",
+                "",
+                ""
+              ],
+              "subInstructions": []
             }
           ],
           "events": []
@@ -11613,6 +11717,20 @@
               "parameters": [
                 "",
                 "\"wrong\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "sound\\DM-CGS-36-wrong.wav",
+                "no",
+                "",
+                ""
               ],
               "subInstructions": []
             }
@@ -12070,6 +12188,20 @@
                 "\"255;255;255\""
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "sound\\blank.wav",
+                "no",
+                "",
+                ""
+              ],
+              "subInstructions": []
             }
           ],
           "events": []
@@ -12113,6 +12245,20 @@
               "parameters": [
                 "",
                 "\"Game\"",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "sound\\DM-CGS-32-click.wav",
+                "no",
+                "",
                 ""
               ],
               "subInstructions": []
