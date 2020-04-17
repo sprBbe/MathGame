@@ -569,6 +569,20 @@
         "metadata": "",
         "name": "sound\\blank.wav",
         "userAdded": true
+      },
+      {
+        "file": "sound/DM-CGS-36-wrong.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "sound\\DM-CGS-36-wrong.wav",
+        "userAdded": true
+      },
+      {
+        "file": "sound/SangMatChua.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "sound\\SangMatChua.mp3",
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -587,7 +601,7 @@
       "oglZNear": 1,
       "r": 255,
       "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
+      "stopSoundsOnStartup": false,
       "title": "Comparing number up to 5",
       "v": 255,
       "uiSettings": {
@@ -1047,6 +1061,20 @@
                 "",
                 "sound\\blank.wav",
                 "no",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "sound\\SangMatChua.mp3",
+                "",
                 "",
                 ""
               ],
@@ -1931,7 +1959,7 @@
       "oglZNear": 1,
       "r": 255,
       "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
+      "stopSoundsOnStartup": false,
       "title": "Game 1: Who has more blocks?",
       "v": 255,
       "uiSettings": {
@@ -3482,6 +3510,20 @@
                 "\"Wrong\""
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "sound\\blank.wav",
+                "no",
+                "",
+                ""
+              ],
+              "subInstructions": []
             }
           ],
           "events": []
@@ -3639,6 +3681,20 @@
               "parameters": [
                 "",
                 "\"Start\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "sound\\DM-CGS-32-click.wav",
+                "no",
+                "",
+                ""
               ],
               "subInstructions": []
             }
@@ -4127,6 +4183,20 @@
                 ""
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "sound\\DM-CGS-26-correct.wav",
+                "no",
+                "",
+                ""
+              ],
+              "subInstructions": []
             }
           ],
           "events": []
@@ -4194,6 +4264,20 @@
               "parameters": [
                 "",
                 "\"Game 1.2\"",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "sound\\DM-CGS-26-correct.wav",
+                "no",
+                "",
                 ""
               ],
               "subInstructions": []
@@ -4266,6 +4350,20 @@
                 "\"Wrong\""
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "sound\\DM-CGS-36-wrong.wav",
+                "no",
+                "",
+                ""
+              ],
+              "subInstructions": []
             }
           ],
           "events": []
@@ -4333,6 +4431,20 @@
               "parameters": [
                 "",
                 "\"Wrong\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "sound\\DM-CGS-36-wrong.wav",
+                "no",
+                "",
+                ""
               ],
               "subInstructions": []
             }
@@ -4619,6 +4731,20 @@
                 ""
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "sound\\DM-CGS-32-click.wav",
+                "no",
+                "",
+                ""
+              ],
+              "subInstructions": []
             }
           ],
           "events": []
@@ -4679,7 +4805,7 @@
       "oglZNear": 1,
       "r": 255,
       "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
+      "stopSoundsOnStartup": false,
       "title": "Game 1: Who has more blocks?",
       "v": 255,
       "uiSettings": {
@@ -6166,6 +6292,20 @@
                 "\"Wrong\""
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "sound\\blank.wav",
+                "no",
+                "",
+                ""
+              ],
+              "subInstructions": []
             }
           ],
           "events": []
@@ -6913,6 +7053,20 @@
                 "\"Wrong\""
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "sound\\DM-CGS-36-wrong.wav",
+                "no",
+                "",
+                ""
+              ],
+              "subInstructions": []
             }
           ],
           "events": []
@@ -6980,6 +7134,20 @@
               "parameters": [
                 "",
                 "\"Game 1.2\"",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "sound\\DM-CGS-26-correct.wav",
+                "no",
+                "",
                 ""
               ],
               "subInstructions": []
@@ -7052,6 +7220,20 @@
                 "\"Wrong\""
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "sound\\DM-CGS-36-wrong.wav",
+                "no",
+                "",
+                ""
+              ],
+              "subInstructions": []
             }
           ],
           "events": []
@@ -7119,6 +7301,20 @@
               "parameters": [
                 "",
                 "\"Game 1.2\"",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "sound\\DM-CGS-26-correct.wav",
+                "no",
+                "",
                 ""
               ],
               "subInstructions": []
@@ -7406,6 +7602,20 @@
                 ""
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "sound\\DM-CGS-32-click.wav",
+                "no",
+                "",
+                ""
+              ],
+              "subInstructions": []
             }
           ],
           "events": []
@@ -7466,7 +7676,7 @@
       "oglZNear": 1,
       "r": 255,
       "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
+      "stopSoundsOnStartup": false,
       "title": "Game 1: Who has more blocks?",
       "v": 255,
       "uiSettings": {
@@ -7663,6 +7873,20 @@
                 "\"255;255;255\""
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "sound\\blank.wav",
+                "no",
+                "",
+                ""
+              ],
+              "subInstructions": []
             }
           ],
           "events": []
@@ -7706,6 +7930,20 @@
               "parameters": [
                 "",
                 "\"Game\"",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "sound\\DM-CGS-32-click.wav",
+                "no",
+                "",
                 ""
               ],
               "subInstructions": []
