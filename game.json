@@ -12547,6 +12547,20 @@
                     "no"
                   ],
                   "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "sound\\DM-CGS-32-click.wav",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
                 }
               ],
               "events": []
@@ -12601,6 +12615,20 @@
                     "",
                     "\"Game\"",
                     "no"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "sound\\DM-CGS-32-click.wav",
+                    "",
+                    "",
+                    ""
                   ],
                   "subInstructions": []
                 }
@@ -14471,6 +14499,20 @@
                 "0"
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "sound\\blank.wav",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
             }
           ],
           "events": []
@@ -15408,6 +15450,20 @@
                     "no"
                   ],
                   "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "sound\\DM-CGS-26-correct.wav",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
                 }
               ],
               "events": []
@@ -15462,6 +15518,20 @@
                   "parameters": [
                     "",
                     "\"wrong\""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "sound\\DM-CGS-36-wrong.wav",
+                    "",
+                    "",
+                    ""
                   ],
                   "subInstructions": []
                 }
@@ -15544,6 +15614,20 @@
                     "no"
                   ],
                   "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "sound\\DM-CGS-26-correct.wav",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
                 }
               ],
               "events": []
@@ -15598,6 +15682,20 @@
                   "parameters": [
                     "",
                     "\"wrong\""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "sound\\DM-CGS-36-wrong.wav",
+                    "",
+                    "",
+                    ""
                   ],
                   "subInstructions": []
                 }
@@ -15680,6 +15778,20 @@
                     "no"
                   ],
                   "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "sound\\DM-CGS-26-correct.wav",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
                 }
               ],
               "events": []
@@ -15734,6 +15846,20 @@
                   "parameters": [
                     "",
                     "\"wrong\""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "sound\\DM-CGS-36-wrong.wav",
+                    "",
+                    "",
+                    ""
                   ],
                   "subInstructions": []
                 }
@@ -16061,6 +16187,20 @@
                   "parameters": [
                     "",
                     "\"Game\"",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "sound\\DM-CGS-32-click.wav",
+                    "",
+                    "",
                     ""
                   ],
                   "subInstructions": []
@@ -17938,6 +18078,20 @@
                 "RandomInRange(1,6)"
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "sound\\blank.wav",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
             }
           ],
           "events": []
@@ -18896,6 +19050,20 @@
                         "no"
                       ],
                       "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "PlaySound"
+                      },
+                      "parameters": [
+                        "",
+                        "sound\\DM-CGS-26-correct.wav",
+                        "",
+                        "",
+                        ""
+                      ],
+                      "subInstructions": []
                     }
                   ],
                   "events": []
@@ -18927,6 +19095,20 @@
                       "parameters": [
                         "",
                         "\"Start Game 3 Part II\"",
+                        ""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "PlaySound"
+                      },
+                      "parameters": [
+                        "",
+                        "sound\\DM-CGS-26-correct.wav",
+                        "",
+                        "",
                         ""
                       ],
                       "subInstructions": []
@@ -18986,6 +19168,20 @@
                   "parameters": [
                     "",
                     "\"wrong\""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "sound\\DM-CGS-36-wrong.wav",
+                    "",
+                    "",
+                    ""
                   ],
                   "subInstructions": []
                 }
@@ -19089,6 +19285,20 @@
                         "no"
                       ],
                       "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "PlaySound"
+                      },
+                      "parameters": [
+                        "",
+                        "sound\\DM-CGS-26-correct.wav",
+                        "",
+                        "",
+                        ""
+                      ],
+                      "subInstructions": []
                     }
                   ],
                   "events": []
@@ -19120,6 +19330,20 @@
                       "parameters": [
                         "",
                         "\"Start Game 3 Part II\"",
+                        ""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "PlaySound"
+                      },
+                      "parameters": [
+                        "",
+                        "sound\\DM-CGS-26-correct.wav",
+                        "",
+                        "",
                         ""
                       ],
                       "subInstructions": []
@@ -19162,7 +19386,7 @@
                 {
                   "type": {
                     "inverted": false,
-                    "value": "ModVarScene"
+                    "value": "ModVarGlobal"
                   },
                   "parameters": [
                     "scoreG3",
@@ -19185,12 +19409,14 @@
                 {
                   "type": {
                     "inverted": false,
-                    "value": "ModVarGlobal"
+                    "value": "PlaySound"
                   },
                   "parameters": [
-                    "scoreG3",
-                    "-",
-                    "1"
+                    "",
+                    "sound\\DM-CGS-36-wrong.wav",
+                    "",
+                    "",
+                    ""
                   ],
                   "subInstructions": []
                 }
@@ -19294,6 +19520,20 @@
                         "no"
                       ],
                       "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "PlaySound"
+                      },
+                      "parameters": [
+                        "",
+                        "sound\\DM-CGS-26-correct.wav",
+                        "",
+                        "",
+                        ""
+                      ],
+                      "subInstructions": []
                     }
                   ],
                   "events": []
@@ -19325,6 +19565,20 @@
                       "parameters": [
                         "",
                         "\"Start Game 3 Part II\"",
+                        ""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "PlaySound"
+                      },
+                      "parameters": [
+                        "",
+                        "sound\\DM-CGS-26-correct.wav",
+                        "",
+                        "",
                         ""
                       ],
                       "subInstructions": []
@@ -19384,6 +19638,20 @@
                   "parameters": [
                     "",
                     "\"wrong\""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "sound\\DM-CGS-36-wrong.wav",
+                    "",
+                    "",
+                    ""
                   ],
                   "subInstructions": []
                 }
@@ -19714,6 +19982,20 @@
                     "no"
                   ],
                   "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "sound\\DM-CGS-32-click.wav",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
                 }
               ],
               "events": []
@@ -20013,6 +20295,20 @@
                     "no"
                   ],
                   "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "sound\\DM-CGS-32-click.wav",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
                 }
               ],
               "events": []
@@ -20067,6 +20363,20 @@
                     "",
                     "\"Game\"",
                     "no"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "sound\\DM-CGS-32-click.wav",
+                    "",
+                    "",
+                    ""
                   ],
                   "subInstructions": []
                 }
@@ -21940,6 +22250,20 @@
                 "RandomInRange(1,6)"
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "sound\\blank.wav",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
             }
           ],
           "events": []
@@ -22877,6 +23201,20 @@
                     "no"
                   ],
                   "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "sound\\DM-CGS-26-correct.wav",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
                 }
               ],
               "events": []
@@ -22931,6 +23269,20 @@
                   "parameters": [
                     "",
                     "\"wrong\""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "sound\\DM-CGS-36-wrong.wav",
+                    "",
+                    "",
+                    ""
                   ],
                   "subInstructions": []
                 }
@@ -23013,6 +23365,20 @@
                     "no"
                   ],
                   "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "sound\\DM-CGS-26-correct.wav",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
                 }
               ],
               "events": []
@@ -23067,6 +23433,20 @@
                   "parameters": [
                     "",
                     "\"wrong\""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "sound\\DM-CGS-36-wrong.wav",
+                    "",
+                    "",
+                    ""
                   ],
                   "subInstructions": []
                 }
@@ -23149,6 +23529,20 @@
                     "no"
                   ],
                   "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "sound\\DM-CGS-26-correct.wav",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
                 }
               ],
               "events": []
@@ -23203,6 +23597,20 @@
                   "parameters": [
                     "",
                     "\"wrong\""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "sound\\DM-CGS-36-wrong.wav",
+                    "",
+                    "",
+                    ""
                   ],
                   "subInstructions": []
                 }
@@ -23531,6 +23939,20 @@
                     "",
                     "\"Game\"",
                     "no"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "sound\\DM-CGS-32-click.wav",
+                    "",
+                    "",
+                    ""
                   ],
                   "subInstructions": []
                 }
