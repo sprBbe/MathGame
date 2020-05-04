@@ -16270,12 +16270,6 @@
           "effects": []
         },
         {
-          "name": "Layer",
-          "visibility": true,
-          "cameras": [],
-          "effects": []
-        },
-        {
           "name": "wrong",
           "visibility": true,
           "cameras": [],
@@ -20949,7 +20943,7 @@
           "width": 0,
           "x": 399,
           "y": 146,
-          "zOrder": 43,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []

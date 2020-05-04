@@ -615,7 +615,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.8544
+        "zoomFactor": 0.7824
       },
       "objectsGroups": [],
       "variables": [],
@@ -1959,7 +1959,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.712
+        "zoomFactor": 0.832
       },
       "objectsGroups": [],
       "variables": [
@@ -12717,7 +12717,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.682
+        "zoomFactor": 0.802
       },
       "objectsGroups": [],
       "variables": [],
@@ -16270,12 +16270,6 @@
           "effects": []
         },
         {
-          "name": "Layer",
-          "visibility": true,
-          "cameras": [],
-          "effects": []
-        },
-        {
           "name": "wrong",
           "visibility": true,
           "cameras": [],
@@ -16308,7 +16302,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.682
+        "zoomFactor": 0.85
       },
       "objectsGroups": [],
       "variables": [],
@@ -20949,7 +20943,7 @@
           "width": 0,
           "x": 399,
           "y": 146,
-          "zOrder": 43,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
