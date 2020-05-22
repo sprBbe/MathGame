@@ -14,7 +14,7 @@
     "macExecutableFilename": "",
     "orientation": "landscape",
     "packageName": "com.example.gamename",
-    "projectFile": "C:\\Users\\Thanh Dat\\Downloads\\MathGame-master (1)\\MathGame-master\\game.json",
+    "projectFile": "D:\\Môn học\\Công nghệ phần mềm\\MathGame\\game.json",
     "scaleMode": "linear",
     "sizeOnStartupMode": "adaptWidth",
     "useExternalSourceFiles": false,
@@ -11904,7 +11904,7 @@
                     "=",
                     "465",
                     "=",
-                    "349"
+                    "350"
                   ],
                   "subInstructions": []
                 },
@@ -12117,7 +12117,7 @@
                     "=",
                     "465",
                     "=",
-                    "303"
+                    "305"
                   ],
                   "subInstructions": []
                 },
@@ -12330,7 +12330,7 @@
                     "=",
                     "465",
                     "=",
-                    "257"
+                    "260"
                   ],
                   "subInstructions": []
                 },
@@ -12543,7 +12543,7 @@
                     "=",
                     "465",
                     "=",
-                    "211"
+                    "215"
                   ],
                   "subInstructions": []
                 },
@@ -12768,7 +12768,7 @@
                     "=",
                     "465",
                     "=",
-                    "165"
+                    "170"
                   ],
                   "subInstructions": []
                 }
