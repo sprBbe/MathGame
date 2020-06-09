@@ -14,7 +14,7 @@
     "macExecutableFilename": "",
     "orientation": "landscape",
     "packageName": "com.example.gamename",
-    "projectFile": "D:\\Môn học\\Công nghệ phần mềm\\MathGame\\game.json",
+    "projectFile": "D:\\Công nghệ phần mềm\\MathGame\\game.json",
     "scaleMode": "linear",
     "sizeOnStartupMode": "adaptWidth",
     "useExternalSourceFiles": false,
@@ -31702,7 +31702,7 @@
           "variables": [],
           "behaviors": [],
           "string": "Help Neha make a train",
-          "font": "amazone.ttf",
+          "font": "font\\amazone.ttf",
           "characterSize": 20,
           "color": {
             "b": 0,
